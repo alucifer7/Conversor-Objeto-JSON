@@ -37,12 +37,12 @@ private class Professor{
 }
 ```
 
-##### Em seguida
+##### Em seguida:
 ```
 String resJson = new LISTparaJSON(listExample).getListaConvertidaParaJSON();
 ```
 
-### Resultado
+### Resultado:
 ![resultado no logcat](https://i.ibb.co/CKhj9dV/Capturar.png)
 
 #### Para converter de objeto para json, só usar:
